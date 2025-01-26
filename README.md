@@ -1,6 +1,6 @@
 # old-linux
 
-Bash is the GNU Project's Bourne Again SHell.
+Bash is the [GNU Project's Bourne Again SHell](https://www.gnu.org/software/bash/).
 
 Some of the older Bash sources appear to have vanished from the Internet.
 
