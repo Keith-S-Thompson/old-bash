@@ -15,7 +15,8 @@ Date:   1996-08-26 18:22:31 +0000
     Imported from ../bash-1.14.7.tar.gz.
 ```
 
-Bash source tarballs can be downloaded by ftp from [ftp://ftp.gnu.org/gnu/bash](ftp://ftp.gnu.org/gnu/bash).
+Bash source tarballs can be downloaded by ftp from [ftp://ftp.gnu.org/gnu/bash](ftp://ftp.gnu.org/gnu/bash),
+or on this newfangled "web" thingie at [https://ftp.gnu.org/gnu/bash/](https://ftp.gnu.org/gnu/bash/).
 The oldest release provided there is 1.14.7.
 There are some diffs for older releases, but only going back to 1.14.1.
 
@@ -47,6 +48,6 @@ I've included them in this repo:
   I haven't found the bash 1.12 tarball itself.
 
 The bash 1.05 tarball's `Changelog` documents changes going back to Mon Jun 26 13:35:16 1989.
-There must have been substantial development before that, but so far it appears to be lost.
+There must have been substantial development before that, but as far as I can tell it appears to be lost.
 
-The file `bash-1.05-patc`, also included in the 1.05 tarball, is a context diff from a slightly earlier version.
+The file `bash-1.05-patc` (sic), also included in the 1.05 tarball, is a context diff from a slightly earlier version.
